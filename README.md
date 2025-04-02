@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://tetsuya-kato.net/">Tetsuya</a></h1>
+<h1 align="center">I'm Tetsuya</a></h1>
 <h3 align="center">A fullstack developer from Japan</h3>
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=empelt&left_color=gray&right_color=blue)
